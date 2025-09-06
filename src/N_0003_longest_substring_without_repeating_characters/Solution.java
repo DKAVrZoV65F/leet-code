@@ -1,4 +1,4 @@
-package N_0003_Longest_Substring_Without_Repeating_Characters;
+package N_0003_longest_substring_without_repeating_characters;
 
 import java.util.HashSet;
 import java.util.Set;
